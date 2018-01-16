@@ -3,3 +3,4 @@ Creating a new branch is quick and simple.
 This
 Stash
 Add vulcan
+dev add
